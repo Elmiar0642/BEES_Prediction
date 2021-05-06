@@ -20,3 +20,6 @@ test acc: 0.9919999837875366
     accuracy                           0.99       500
    macro avg       0.99      0.99      0.99       500
 weighted avg       0.99      0.99      0.99       500
+
+
+https://github.com/ArimaValanImmanuel/BEES_Prediction/blob/main/VGG-16/BEETTA.png
