@@ -117,5 +117,4 @@ plt.legend()
 
 plt.show()
 
-scores = model.evaluate(x_train, y_train)
-print("Accuracy is :{}\n\nFinished Ready to Deploy, MASTER!".format(str(scores[1]*100)))
+
